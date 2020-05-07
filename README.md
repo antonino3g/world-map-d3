@@ -11,6 +11,7 @@ Basic concepts about making a world map with D3.js.
 
 ## 🛠 Build with
 - [d3.js](https://d3js.org/)
+- [topoJson](https://github.com/topojson/topojson)
 - [npm world-atlas](https://www.npmjs.com/package/world-atlas)
 
 
