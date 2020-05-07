@@ -1,0 +1,14 @@
+body {
+  margin: 0px;
+  overflow: hidden;
+}
+
+.sphere {
+  fill: blue;
+}
+
+.country {
+  fill: lightgreen;
+  stroke: black;
+  stroke-opacity: 0.1;
+}
