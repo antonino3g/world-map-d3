@@ -15,5 +15,5 @@ Basic concepts about making a world map with D3.js.
 - [npm world-atlas](https://www.npmjs.com/package/world-atlas)
 
 
-Classroom with [Curran Kelleher](https://www.youtube.com/user/currankelleher/videos). Thanks so much.
+Classroom with [Curran Kelleher](https://www.youtube.com/user/currankelleher/videos). Thanks so much!
 
